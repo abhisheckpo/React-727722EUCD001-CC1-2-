@@ -9,7 +9,7 @@ import FontSizeAdjuster from './FontSizeAdjuster';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <>
-    <App/>
+    <FontSizeAdjuster/>
     </>
 );
 
